@@ -1,0 +1,3 @@
+name: cloudendure-pulumi
+runtime: python
+description: CloudEndure python step function
